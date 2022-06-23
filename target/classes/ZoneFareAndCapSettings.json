@@ -1,0 +1,26 @@
+{
+   "1-1":{
+      "peak":30,
+      "off-peak":25,
+      "daily-cap":100,
+      "weekly-cap":500
+   },
+   "1-2":{
+      "peak":35,
+      "off-peak":30,
+      "daily-cap":120,
+      "weekly-cap":600
+   },
+   "2-1":{
+      "peak":35,
+      "off-peak":30,
+      "daily-cap":120,
+      "weekly-cap":600
+   },
+   "2-2":{
+      "peak":25,
+      "off-peak":20,
+      "daily-cap":80,
+      "weekly-cap":400
+   }
+}
